@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="fr" >
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Bestiaire d'amour rimé</title>
+      <title type="formal">bestam</title>
+      <title type="reference">bestam</title>
+      <title type="DEAF">BestAmOctT</title>
+      <title type="gmd">transcription électronique</title>
+      <author xml:id="anonyme">anonyme</author>
+      <editor>Équipe de la Base de français médiéval - ENS de Lyon / UMR 5317 IHRIM</editor>
+      <funder>Laboratoire IHRIM</funder>
+      <funder>ANR (projet ELICO)&#xD;</funder>
+    </titleStmt>
+    <editionStmt>
+      <edition>transcripion électronique</edition>
+      <respStmt xml:id="encoder0">
+        <resp>création du descripteur</resp>
+        <name xml:id="AL">Alexei Lavrentiev</name>
+      </respStmt>
+      <respStmt xml:id="proofreader1">
+        <resp>révision de tout le texte</resp>
+        <name xml:id="BF">Benjamin Fagard</name>
+      </respStmt>
+      <respStmt xml:id="proofreader2">
+        <resp>révision de tout le texte et vérification du balisage</resp>
+        <name xml:id="BS">Bérénice Stoll</name>
+      </respStmt>
+      <respStmt xml:id="digitizer">
+        <resp>scannage et océrisation</resp>
+        <name xml:id="KM">Khadija Mahfoud</name>
+      </respStmt>
+      <respStmt xml:id="encoder2">
+        <resp>validation finale</resp>
+        <name xml:id="VO">Vanessa Obry</name>
+      </respStmt>
+      <respStmt xml:id="encoderDD">
+        <resp>balisage du discours direct</resp>
+        <name xml:id="YM">Yunna Menshova</name>
+      </respStmt>
+    </editionStmt>
+    <extent>- Numéros de pages saisies : de 3 à 119 ;
+            - Nombre de mots d'après la base des descripteurs : <num xml:id="nb_mots_given">22667</num> ;
+            - Nombre de tokens (mots et ponctuations) d'après la base des descripteurs : <num xml:id="nb_tokens_given">25426</num>.
+    </extent>
+    <publicationStmt>
+      <publisher><name>Projet BFM, ENS de Lyon / UMR 5317 IHRIM</name></publisher>
+      <address>
+        <addrLine>15, parvis René Descartes</addrLine>
+        <addrLine>69342 Lyon BP7000 Cedex 07</addrLine>
+        <addrLine>Tél : 04 37 37 63 10</addrLine>
+        <addrLine>Mèl : bfm@ens-lyon.fr</addrLine>
+        <addrLine>http://bfm.ens-lyon.fr</addrLine>
+      </address>
+      <idno>http://catalog.bfm-corpus.org/bestam</idno>
+      <availability status="free">
+        <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr">
+          <ab type="availability_bfm" subtype="libre_1d">Les conditions générales de la Charte régissant les conditions
+            d'accès et d'utilisation de la Base de Français Médiéval
+            (http://txm.bfm-corpus.org/bfm/files/CGU.pdf),
+            et notamment son Article 4 « PROPRIETE INTELLECTUELLE - DROIT
+            D'AUTEUR », s'appliquent à tous les textes de la BFM.</ab>
+          <ab type="how_to_cite">
+            <label>Comment citer ce texte :</label>
+            <bibl>Bestiaire d'amour rimé, édité par Arvid Thordstein, Lund ; Copenhague, 1941.
+              Publié en ligne par la Base de français médiéval, http://catalog.bfm-corpus.org/bestam.
+              Dernière révision le 2013-05-28.</bibl>
+            D'autres formules de citation de la BFM sont proposées sur la page web suivante :
+            http://bfm.ens-lyon.fr/article.php3?id_article=281.</ab>
+          <ab type="availability_file">
+            <label>Conditions d'utilisation de ce fichier :</label>
+              Ce fichier numérique est mis à disposition selon les termes de la licence
+              Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage à l'Identique 3.0
+              France (http://creativecommons.org/licenses/by-nc-sa/3.0/fr) avec une condition
+              supplémentaire d'offrir à la BFM toutes les modifications apportées. Le projet BFM se
+              réserve le droit d'intégrer ou non ces modifications au sein de la BFM en citant leurs
+              auteurs. Pour toute question relative à l'usage de ce fichier ou pour proposer une
+              modification, merci de contacter :
+              <address>
+                <addrLine>Céline Guillot-Barbance</addrLine>
+                <addrLine>Mèl : bfm@ens-lyon.fr</addrLine>
+            </address>
+            </ab>
+            <ab type="availability_txmweb" subtype="illimité">
+              <label>Conditions d'utilisation par le portail BFM :</label>
+              Pas de limitation dans l'usage des fonctionnalités. Téléchargement autorisé.</ab>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <biblFull>
+        <titleStmt>
+          <title>Le Bestiaire d'amour rimé</title>
+          <respStmt>
+            <resp xml:id="editor">Éditeur scientifique</resp>
+            <name type="person">Arvid Thordstein</name>
+          </respStmt>
+        </titleStmt>
+          <extent>117 page(s)
+        </extent>
+        <publicationStmt>
+          <publisher>Gleerup ; Munksgaard</publisher>
+          <pubPlace>Lund ; Copenhague</pubPlace>
+          <date>1941</date>
+          <idno type="sigle_DEAF">BestAmOctT</idno>
+          <idno type="cote_biblio">ICAR : COR3-THO</idno>
+        </publicationStmt><seriesStmt><title>Études romanes de Lund</title><idno type="collection">2</idno></seriesStmt>
+      </biblFull>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <projectDesc>
+      <p>Projet :<name type="project">BFM - Base de français médiéval</name>
+        Resp. : <name type="person">Céline Guillot-Barbance</name>
+        Équipe : Base de français médiéval
+        Laboratoire : UMR 5317 IHRIM
+        Institution : ENS de Lyon
+        <address>
+          <addrLine>15, parvis René Descartes</addrLine>
+          <addrLine>69342 Lyon BP7000 Cedex 07</addrLine>
+          <addrLine>Tél : 04 37 37 63 10</addrLine>
+          <addrLine>Mèl : bfm@ens-lyon.fr</addrLine>
+          <addrLine>http://bfm.ens-lyon.fr</addrLine>
+        </address>
+      </p>
+    </projectDesc>
+    <editorialDecl>
+      <p>Voir le <ref target="http://bfm.ens-lyon.fr/IMG/pdf/Manuel_Encodage_TEI.pdf">Manuel d'encodage XML-TEI de la BFM</ref>
+        et les <ref target="http://bfm.ens-lyon.fr/IMG/pdf/Consignes_BFM.pdf">Consignes aux relecteurs de la BFM</ref>.</p>
+    </editorialDecl>
+    <tagsDecl>
+      <namespace name="http://www.tei-c.org/ns/1.0">
+        <tagUsage gi="ab" occurs="151"/>
+        <tagUsage gi="body" occurs="1"/>
+        <tagUsage gi="div" occurs="1"/>
+        <tagUsage gi="gap" occurs="4"/>
+        <tagUsage gi="lb" occurs="3720"/>
+        <tagUsage gi="milestone" occurs="149"/>
+        <tagUsage gi="num" occurs="67"/>
+        <tagUsage gi="pb" occurs="117"/>
+        <tagUsage gi="q" occurs="22"/>
+        <tagUsage gi="text" occurs="1"/>
+      </namespace>
+    </tagsDecl>
+  </encodingDesc>
+  <profileDesc>
+    <creation>
+      <name type="author">anonyme</name>
+      <title>Bestiaire d'amour rimé</title>
+      <date type="compo" when="1250-01-01" notBefore="1249-01-01" notAfter="1251-12-31" n="13">ca. 1250</date>
+      <date type="compo_periode">ancien</date>
+      <date type="compo_sous_siecle" n="13_2">milieu</date>
+      <date type="ms" when="1300-01-01" notBefore="1295-01-01" notAfter="1304-01-01">ca. 1300</date>
+      <region type="dialecte_auteur">non défini</region>
+    </creation>
+    <langUsage>
+      <language ident="fro" usage="100">Le texte est entièrement écrit en vers en ancien français.</language>
+    </langUsage>
+    <textDesc>
+      <channel mode="w">print</channel>
+      <constitution type="single"/>
+      <derivation type="original"/>
+      <domain type="didactique"/>
+    <factuality type="inapplicable"/>
+      <interaction type="none"/>
+      <preparedness type="prepared"/>
+      <purpose type="narrative"/></textDesc>
+    <textClass>
+      <keywords scheme="http://authorities.bfm-corpus.org">
+        <term type="domaine">didactique</term>
+        <term type="genre">bestiaire</term>
+        <term type="forme">vers</term>
+        <term type="relation">original</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change who="#KM" when="2007-08-01">scannage et océrisation</change>
+    <change who="#BF" when="2007-09-01">révision de tout le texte</change>
+    <change who="#AL" when="2007-09-01">balisage</change>
+    <change who="#BS" when="2008-01-31">révision de tout le texte et vérification du balisage</change>
+    <change who="#VO" when="2008-04-03">validation finale</change>
+    <change who="#AL" when="2008-10-21">création du descripteur</change>
+    <change who="#YM" when="2013-05-28">balisage du discours direct</change>
+    <change when="2013-05-28">Dernière modification du texte</change>
+    <change when="2016-09-01">Création de cet entête</change>
+  </revisionDesc>
+</teiHeader>
+<text>
+		<body>
+			<div>
+<pb n="3"/>
+<ab type="gv">
+<milestone unit="folio" n="1 r. a"/>
+<lb n="1"/>Amours, cui j'ai fait lige hommage
+<lb n="2"/>Sans fausseté de fin corage,
+<lb n="3"/>Sans jamais a nul jour retraire,
+<lb n="4"/>Me semont d'emprendre <num>.I.</num> afaire.
+<lb n="5"/>Si l'emprendrai mout volentiers
+<lb n="6"/>Com celui qui sui siens entiers,
+<lb n="7"/>Puis qu'il li plait et il li siet,
+<lb n="8"/>Combien que la chose me griet.
+<lb n="9"/>Me doit il dont grever de riens,
+<lb n="10"/>Des que je sui ligement siens,
+<lb n="11"/>De faire son commandement?
+<lb n="12"/>Nenil! Ains doi hardiement
+<lb n="13"/>Mestre cuer et cors et pensee
+<lb n="14"/>A faire, puis qu'il li agree,
+<lb n="15"/>Son commandement sans aloingne
+<lb n="16"/>Et laissier toute autre besoingne,
+<lb n="17"/>N'il ne me doit estre point grief.
+<lb n="18"/>Or me doint Diex mener a chief
+<milestone unit="folio" n="1 r. b"/>
+<lb n="19"/>Ceste oevre que je weil emprendre,
+<lb n="20"/>Si bien qu'il n'i ait que reprendre
+<lb n="21"/>De vilonnie ne d'outrage,
+<lb n="22"/>K'envie, qui de duel enrage,
+<lb n="23"/>Quant ele ot aucun bien retraire,
+<lb n="24"/>Ne puisse rien a droit detraire.
+<lb n="25"/>Et il me doint eür et grace
+<pb n="4"/>
+<lb n="26"/>De faire chose qui li place
+<lb n="27"/>A la millour qui soit en vie:
+<lb n="28"/>C'est a ma dame et a m'amie,
+<lb n="29"/>A cui nule ne s'apareille.
+<lb n="30"/>Aussi com la rose vermeille
+<lb n="31"/>Est plus bele que toute flour,
+<lb n="32"/>Aussic est elle la millour
+<lb n="33"/>Seur toutes les fames dou monde,
+<lb n="34"/>Tant com il dure a la roonde.
+<lb n="35"/>Pour lui ai empris cest afaire
+<lb n="36"/>Qui est nommés le Bestiaire
+<lb n="37"/>D'amours, si l'est nommés a droit,
+<lb n="38"/>Car il y a rayson et droit,
+<lb n="39"/>Qu'il est des bestes et d'amours
+<lb n="40"/>Selonc leur nature et leur mours.</ab>
+<ab type="gv">
+<lb n="41"/>Tuit desirrent science avoir,
+<lb n="42"/>Mais nus ne puet trestout savoir,
+<lb n="43"/>Si pueent bien estre seües
+<lb n="44"/>Toutes coses et conneües.
+<lb n="45"/>Chascuns set rien, bien le convient,
+<lb n="46"/>Mais ce c'uns set, souvent avient,
+<lb n="47"/>Ne set pas l'autre part contraire.
+<lb n="48"/>Tout est seü en tel maniere
+<milestone unit="folio" n="1 v. a"/>
+<lb n="49"/>Que chascuns le set endroit soi,
+<lb n="50"/>Mais nus ne le set tout par soi;
+<lb n="51"/>De tous ensamble est tout seü.
+<lb n="52"/>Mais si com j'ai aperceü
+<lb n="53"/>Tuit ensamble ne vivent mie,
+<lb n="54"/>Ains pert souvent li uns la vie
+<lb n="55"/>Ains que li autre soient né,
+<pb n="5"/>
+<lb n="56"/>Et cil qui ont avant esté
+<lb n="57"/>Tel chose sorent c'orendroit
+<lb n="58"/>Nus hons par son sens ne savroit.
+<lb n="59"/>Se n'estoit par les ancïens
+<lb n="60"/>Qui sont en vie de cest tens,
+<lb n="61"/>Que li uns a l'autre le dit,
+<lb n="62"/>Ou qui nel trouveroit en escrit.</ab>
+<ab type="gv">
+<lb n="63"/>Diex qui seur tous fit par nature
+<lb n="64"/>Homme ama tant k'a sa figure
+<lb n="65"/>Et a sa fourme le fourma;
+<lb n="66"/>A homme une vertu donna,
+<lb n="67"/>Par coi il puet ramentevoir
+<lb n="68"/>Les fais trespassés et savoir
+<lb n="69"/>Trestout en autretel samblance
+<lb n="70"/>Com se il fussent en presence.
+<lb n="71"/>Ceste vertus est apelee
+<lb n="72"/>Memoire. A lui par double entree
+<lb n="73"/>Puet l'en aler, je sai de voir:
+<lb n="74"/>C'est par oïr et par veoir.
+<lb n="75"/>Chascune entree un chemin a
+<lb n="76"/>Par ou l'en puet bien venir la:
+<lb n="77"/>Parole est le chemin d'oÿr,
+<lb n="78"/>Et painture cil de veïr.
+<milestone unit="folio" n="1 v. b"/>
+<lb n="79"/>Que par parole et par painture
+<lb n="80"/>Puisse on venir droite aleüre
+<lb n="81"/>A la sele ou memoire maint,
+<lb n="82"/>Pueent par raison avoir maint.
+<lb n="83"/>Quar memoire, qui garde et serre
+<lb n="84"/>Les tresors que hons puet conquerre
+<lb n="85"/>Par force de soutiveté,
+<pb n="6"/>
+<lb n="86"/>Les fais qui ont piesa esté
+<lb n="87"/>Fait venir en ramembrement,
+<lb n="88"/>Com s'il fussent presentement;
+<lb n="89"/>Et si com chascuns puet savoir,
+<lb n="90"/>Et par oïr et par veoir
+<lb n="91"/>Puet on les fais qui passés sont,
+<lb n="92"/>Autressi comme ceus qui sont,
+<lb n="93"/>Presens ramener en memoire,
+<lb n="94"/>Quar quant l'en voit painte <num>.I.</num> estoire
+<lb n="95"/>Qui est des fais aus chevaliers,
+<lb n="96"/>On voit les fais de sa ariers,
+<lb n="97"/>Com s'il fussent presentement.
+<lb n="98"/>De parole est tout ensement,
+<lb n="99"/>Car quant l'en ot <num>.I.</num> rommant lire
+<lb n="100"/>Qui est d'ancïenne matyre,
+
+				</ab>
+			</div>
+		</body>
+	</text>
+</TEI>
