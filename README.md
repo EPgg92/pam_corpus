@@ -20,7 +20,8 @@ sudo pip3 install beautifulsoup4 num2words
 
 ## Ou trouver les xml des textes de la BFM?
 
-<!--Réponse Tim-->
+Demander les fichiers xml directement à la BFM en les contactant à cette
+adresse : bfm@ens-lyon.fr
 
 ## Transformation de xml vers txt
 
