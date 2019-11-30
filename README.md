@@ -15,7 +15,9 @@ adéquate selon votre OS.
 Installer les dépendances suivantes avec ces packages:
 
 ```
-sudo pip3 install beautifulsoup4 num2words
+sudo pip3 install lxml
+sudo pip3 install beautifulsoup4
+sudo pip3 install num2words
 ```
 
 ## Ou trouver les xml des textes de la BFM?
