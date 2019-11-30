@@ -33,14 +33,11 @@ il faut lancer le script exécutable `xml_txt.py`.
 ### Exemple
 ```console
 $> python3 xml_txt.py corpus/bestam100.xml
-Amours, cui j'ai fait lige hommage
-Sans fausseté de fin corage,
-Sans jamais a nul jour retraire,
-[...]
+corpus/bestam100.txt is created.
 ```
 Ou pour rediriger la sortie dans un fichier
 ```
-$> python3 xml_txt.py corpus/bestam100.xml > corpus/bestam100.txt
+$> python3 xml_txt.py corpus/bestam100.xml
 ```
 ## Nettoyage des chiffres romains dans les fichiers txt
 
