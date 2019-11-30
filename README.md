@@ -35,10 +35,6 @@ il faut lancer le script exécutable `xml_txt.py`.
 $> python3 xml_txt.py corpus/bestam100.xml
 corpus/bestam100.txt is created.
 ```
-Ou pour rediriger la sortie dans un fichier
-```
-$> python3 xml_txt.py corpus/bestam100.xml
-```
 ## Nettoyage des chiffres romains dans les fichiers txt
 
 Pour nettoyer les chiffres romains des fichiers txt il suffit d’exécuter le
